@@ -17,5 +17,6 @@
 [HW1-2](https://colab.research.google.com/drive/1Y1CVvPndUFH1A7C-P3tUgyPtx-2GWDDE#scrollTo=5Y5QhqiXqMqx)
 [HW2-1](https://github.com/wei-wei122/114-2-ProgramingLanguage/blob/main/「HW2_成績一本通_ipynb」的副本.ipynb)
 [HW2-2](https://github.com/wei-wei122/114-2-ProgramingLanguage/blob/main/「HW2_成績一本通_Part2_ipynb」的副本.ipynb)
+[HW2-2影片](https://youtu.be/nicPIsXGBlY)
 ## 專題連結區
 之後放專題
