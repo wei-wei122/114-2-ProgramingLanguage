@@ -19,5 +19,6 @@
 [HW2-2](https://github.com/wei-wei122/114-2-ProgramingLanguage/blob/main/「HW2_成績一本通_Part2_ipynb」的副本.ipynb)
 [HW2-2影片](https://youtu.be/nicPIsXGBlY)
 [HW3](https://github.com/wei-wei122/114-2-ProgramingLanguage/blob/main/「HW3_待辦清單與番茄鐘紀錄_ipynb」的副本.ipynb)
+[HW3影片](https://youtu.be/zj6THjFewgQ)
 ## 專題連結區
 之後放專題
