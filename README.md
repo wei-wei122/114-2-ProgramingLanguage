@@ -20,5 +20,6 @@
 [HW2-2影片](https://youtu.be/nicPIsXGBlY)
 [HW3](https://github.com/wei-wei122/114-2-ProgramingLanguage/blob/main/「HW3_待辦清單與番茄鐘紀錄_ipynb」的副本.ipynb)
 [HW3影片](https://youtu.be/zj6THjFewgQ)
+[HW4](https://github.com/wei-wei122/114-2-ProgramingLanguage/blob/main/「HW4_PTT_GoogleSheet_RAG整理版_ipynb」的副本.ipynb)
 ## 專題連結區
 之後放專題
